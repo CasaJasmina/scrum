@@ -19,13 +19,9 @@ This respository was created by Michelle Thorne with support by Peter Bihr and A
 
 # Why Github
 
-Github is one of the essential tools of online collaboration today. Many open source projects share and improve their code using the platform. Lots of organizations who work in the open use it to manage projects and invite people to participate with them. 
-
-[LINK to Matt's heartbeat post] 
+Github is one of the essential tools of online collaboration today. Many open source projects share and improve their code using the platform. Organizations who work in the open [use it](http://book.webmaker.org/) to manage projects and invite people to participate with them. 
 
 Also, because Github has a lively and technically savvy community, there are lots of nifty tools available to expand the platform even further. 
-
-[LINK to github tools] 
 
 # Why scrum
 
@@ -56,10 +52,8 @@ You can view source by:
 
 Here are two ways you can contribute your ideas, questions, and creativity to Casa Jasmina: 
 
-* **Add a project.** You can add a project by making a "pull request" to this respository. Here's an explaination of how that works. You'll need a Github account. 
+* **Add a project.** You can add a project by making a "pull request" to this respository. Here's an [explaination of how that works.](https://help.github.com/articles/creating-a-pull-request/) You'll need a Github account. 
 
-
-[LINK to github on pull requests] 
 
 * **Create or contribute to an issue.** If you have an idea of something that should be made or discussed, you can open a new issue. Be sure to add some detail and context, so others understand what you are trying to accomplish You can also pick up an existing issue and contribute to it. 
 
@@ -83,9 +77,8 @@ If you have questions or suggestions to make this process better, contact Michel
 
 * @thornet on Twitter
 * i.am.thornet [at] gmail [dot] com
-* or leave a comment in this Github issue! 
+* or leave a comment [in this Github issue!](https://github.com/thornet/casajasmina/issues/17) 
 
-[LINK to a Github issue on improving the scrum] 
 
 
 
