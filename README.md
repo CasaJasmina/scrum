@@ -9,7 +9,7 @@ You can support the project by getting involved!
 
 # What is this respository
 
-There are many ways to contribute to Casa Jasmina, whether you are staying there as a guest, are a resident maker and thinker of Torino, or a compelled individual from anywhere in the globe. 
+There are many ways to contribute to Casa Jasmina, whether you are staying there as a guest, are a resident maker and thinker of Torino, or a compelled individual from anywhere on the globe. 
 
 This Github repository is a modest step towards having an open, shared workbench for the home. 
 
@@ -19,7 +19,7 @@ This respository was created by Michelle Thorne with support by Peter Bihr and A
 
 # Why Github
 
-Github is one of the essential tools of online collaboration today. Many open source projects share and remix code using the platform. Lots of organizations who work in the open use it to manage projects and invite people to participate with them. 
+Github is one of the essential tools of online collaboration today. Many open source projects share and improve their code using the platform. Lots of organizations who work in the open use it to manage projects and invite people to participate with them. 
 
 [LINK to Matt's heartbeat post] 
 
@@ -33,7 +33,7 @@ Scrum is a common practice to manage projects, especially in software developmen
 
 The basic principle is to have simple yet powerful way to track what tasks need to be done, which ones are in progress, and what's been completed. 
 
-While there are many varations and tweaks to how to scrum effectively, this repository just sets up some of the basics to get the process rolling and see if it's helpful to Casa Jasmina. 
+While there are many variations and tweaks on how to scrum effectively, this repository just sets up some of the basics to get the process rolling and see if it's helpful to Casa Jasmina. 
 
 
 # How to use this repository
@@ -45,23 +45,37 @@ Being able to "view source" is an essential attribute of an open source project.
 
 However, as open source projects move increasingly to connected objects and the "embodied" world, it's harder for anyone to look under the hood of a project and know what makes it tick. 
 
-This is one of the challenges of Casa Jasmina. Therefore, we hope that by publicly logging what goes into making it, we can make the code and participation that went into it more visible. 
+This is one of the challenges of Casa Jasmina. Therefore, we think that by publicly logging what goes into making it, we can make the code and contributions that went into it more visible. 
 
 You can view source by: 
 
 * **Exploring the projects in the repository.** There will be several folders in this repository. They will have documentation, code and other assets related to the home and projects contained within. 
-* **Reading the Github Issues.** These issues track conversations, tasks and other elements of discussions and problem-solving in Casa Jasmina. You can read open and closed issues, and search for various terms and contributors. 
+* **Reading the Github Issues.** These issues track conversations, tasks and other elements of discussions and problem-solving in Casa Jasmina. You can read all the open and closed issues, and search for various terms and contributors. 
 
 ## To contribute to Casa Jasmina
 
-Here are two ways you can contributor your ideas, questions, and creative work to Casa Jasmina: 
+Here are two ways you can contribute your ideas, questions, and creativity to Casa Jasmina: 
 
 * **Add a project.** You can add a project by making a "pull request" to this respository. Here's an explaination of how that works. You'll need a Github account. 
 
 
 [LINK to github on pull requests] 
 
-* **Create, comment on or complete an issue.** If you have an idea of something that should be made or discussed, you can open a new issue. You can also pick up open issues and contribute to them. We use the labels **"to make", "making" and "made" to indicate the status of an issue. 
+* **Create or contribute to an issue.** If you have an idea of something that should be made or discussed, you can open a new issue. Be sure to add some detail and context, so others understand what you are trying to accomplish You can also pick up an existing issue and contribute to it. 
+
+
+## Using Github Issues
+
+We use the labels **"to make", "making" and "made"** to indicate the status of an issue. 
+
+Here are some examples of what a good issue looks like:
+
+> "Prototype visual icons that indicate if an area in the home is 'private' or 'sensor-free'."
+
+> "Fix the top shelf in the kitchen so that it opens from the right side instead of the left."
+
+> "Bring a personal object to the home and leave it there."
+ 
 
 # Need help or have suggestions?
 
