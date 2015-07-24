@@ -15,7 +15,7 @@ This Github repository is a modest step towards having an open, shared workbench
 
 By publicly logging what happens in Casa Jasmina, what is built, and who contributed to it, as well as inviting everyone to join in, you have the ability to "view source" on the home, even if you aren't physically present. 
 
-This respository was created by Michelle Thorne with support by Peter Bihr and Alexandra Deschamps-Sonsino during their stay in Casa Jasmina on July 20, 2015.
+This respository was created by [Michelle Thorne](http://michellethorne.cc/2015/07/casa-jasmina-how-to-be-a-guest-in-an-open-source-connected-home/) with support by [Peter Bihr](http://www.thewavingcat.com/2015/07/22/visiting-casa-jasmina/) and [Alexandra Deschamps-Sonsino](http://designswarm.com/) during their stay in Casa Jasmina on July 20, 2015.
 
 # Why Github
 
@@ -53,10 +53,7 @@ You can view source by:
 Here are two ways you can contribute your ideas, questions, and creativity to Casa Jasmina: 
 
 * **Add a project.** You can add a project by making a "pull request" to this respository. Here's an [explaination of how that works.](https://help.github.com/articles/creating-a-pull-request/) You'll need a Github account. 
-
-
 * **Create or contribute to an issue.** If you have an idea of something that should be made or discussed, you can open a new issue. Be sure to add some detail and context, so others understand what you are trying to accomplish You can also pick up an existing issue and contribute to it. 
-
 
 ## Using Github Issues
 
@@ -77,7 +74,7 @@ If you have questions or suggestions to make this process better, contact Michel
 
 * @thornet on Twitter
 * i.am.thornet [at] gmail [dot] com
-* or leave a comment [in this Github issue!](https://github.com/thornet/casajasmina/issues/17) 
+* or leave a comment [in this Github issue!](https://github.com/CasaJasmina/scrum/issues/17) 
 
 
 
